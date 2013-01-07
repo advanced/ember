@@ -1,0 +1,19 @@
+{
+  "name": "ember",
+  "repo": "kelonye/ember",
+  "version": "1.0.0-pre.2",
+  "description": "A JavaScript framework for creating ambitious web applications.",
+  "dependencies":{
+    "component/jquery":"*",
+    "kelonye/handlebars":"*"
+  },
+  "keywords":[
+    "ember",
+    "emberjs",
+    "ember.js"
+  ],
+  "scripts":[
+    "index.js",
+    "ember.js"
+  ]
+}
