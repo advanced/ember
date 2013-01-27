@@ -4,9 +4,7 @@ See [project repo](https://github.com/emberjs/ember.js)
 Install
 ---
 
-```
-component install kelonye/ember
-```
+```component install kelonye/ember```
 
 Usage
 ---
