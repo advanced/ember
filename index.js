@@ -1,3 +1,3 @@
-window.jQuery =window.$ = require('jquery');
-window.Handlebars = require('handlebars');
+window.jQuery = window.$ = require('jquery');
+require('handlebars');
 require('./ember.js');
