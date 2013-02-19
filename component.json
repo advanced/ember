@@ -1,10 +1,10 @@
 {
   "name": "ember",
-  "repo": "kelonye/ember",
-  "version": "1.0.0-pre.4",
+  "repo": "advanced/ember",
+  "version": "1.0.0-rc1",
   "description": "Ember.js component",
   "dependencies":{
-    "component/jquery":"*",
+    "juliangruber/jquery":"*",
     "kelonye/handlebars":"*"
   },
   "keywords":[
