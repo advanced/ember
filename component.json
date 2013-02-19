@@ -4,8 +4,8 @@
   "version": "1.0.0-rc1",
   "description": "Ember.js component",
   "dependencies":{
-    "juliangruber/jquery":"*",
-    "kelonye/handlebars":"*"
+    "advanced/jquery":"*",
+    "advanced/handlebars":"*"
   },
   "keywords":[
     "ember",
